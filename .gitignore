@@ -1,0 +1,15 @@
+# Generated output: commit source and datasets, not local build artefacts
+out/
+test-out/
+*.class
+*.jar
+sources.list
+tests.list
+*.log
+.idea/
+*.iml
+.DS_Store
+
+# Personal font installs (do not commit/re-distribute)
+fonts/*.otf
+fonts/*.ttf
